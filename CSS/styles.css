@@ -38,3 +38,13 @@ footer{
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+
+.colorjs {
+    color: red;
+}
+
+
+.tablejs {
+    margin: auto ;
+}
