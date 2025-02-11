@@ -57,3 +57,15 @@ document.addEventListener('DOMContentLoaded', (e) => {
       Descripcion: "Blastoise es la evolución final de Squirtle y se distingue por los poderosos cañones de agua en su caparazón. Puede disparar agua a alta presión con una fuerza devastadora, capaz de perforar acero. Es un Pokémon muy resistente y su estrategia en combate se basa en la combinación de su gran defensa y ataques de agua a larga distancia."
     }
 ];
+
+
+
+function Mostrar_UnPokemon() {
+  
+}
+
+
+function Mostrar_TodosPokemon() {
+   
+  
+}
